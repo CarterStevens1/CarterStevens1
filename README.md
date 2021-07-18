@@ -1,12 +1,9 @@
 ### Hi there 👋
 
+<h1>My Stats<h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterStevens1&layout=compact&bg_color=#000)](https://github.com/CarterStevens1/github-readme-stats)
 
-
-<!--
-**CarterStevens1/CarterStevens1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
