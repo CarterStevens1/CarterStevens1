@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterStevens1)](https://github.com/CarterStevens1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterStevens1&layout=compact&bg_color=#000)](https://github.com/CarterStevens1/github-readme-stats)
+
 
 <!--
 **CarterStevens1/CarterStevens1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
