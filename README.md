@@ -11,8 +11,12 @@
 </p>
 
 <h1>A little about me</h1>
+<p>
 - 🔭 I’m currently working as a Junior Front End Developer
+  </p>
+  <p>
 - 🌱 I’m currently learning PHP, Advanced JS
+  </p>
 <!-- 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
