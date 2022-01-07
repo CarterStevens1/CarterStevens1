@@ -15,7 +15,7 @@
 - 🔭 I’m currently working as a Junior Front End Developer
   </p>
   <p>
-- 🌱 I’m currently learning PHP, Advanced JS
+- 🌱 I’m currently learning PHP, Advanced JS, React.js
   </p>
 <!-- 
 - 📫 How to reach me: ...
