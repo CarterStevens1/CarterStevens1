@@ -18,13 +18,6 @@
 - 🌱 I’m currently learning PHP and Astro
   </p>
   
-  <h1>Work Website projects</h1>
-  <a href="https://bio-dock.com/" >https://bio-dock.com/</a>
-<br>
-<a href="https://forthwithlife.co.uk">www.forthwithlife.co.uk</a>
-  <br>
-  <a href="https://futurehealthbiobank.com/news/" >https://futurehealthbiobank.com/news/</a>
-  
 <!-- 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ..
