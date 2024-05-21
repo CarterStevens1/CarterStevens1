@@ -15,7 +15,7 @@
 - 🔭 I’m currently working as a Wordpress Developer
   </p>
   <p>
-- 🌱 I’m currently learning PHP and Astro
+- 🌱 I’m currently learning Astro
   </p>
   
 <!-- 
