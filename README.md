@@ -12,7 +12,7 @@
 
 <h1>A little about me</h1>
 <p>
-- 🔭 I’m currently working as a Wordpress Developer
+- 🔭 I’m currently working as a Wordpress Developer for Humankind Ventures, I maintain two websites and mamage the structure and quality of the code
   </p>
   <p>
 - 🌱 I’m currently learning Astro
