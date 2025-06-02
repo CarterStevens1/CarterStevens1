@@ -17,7 +17,7 @@
 
 <h1>A little about me</h1>
 <p>
-- 🔭 I’m currently working as a Wordpress Developer for Humankind Ventures, I maintain three websites and manage the structure and quality of the code
+- 🔭 I’m currently working as a Web Developer for Humankind Ventures, I maintain three websites and manage the structure and quality of the code
   </p>
   <p>
 - 🌱 I’m currently learning Laravel
